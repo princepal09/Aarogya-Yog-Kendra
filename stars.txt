@@ -1,0 +1,14 @@
+<div class="rating">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                      </div>
+                      <p>Trusted By 500+ Yoga Authors</p>
+                </div>
+
+
+
+          
